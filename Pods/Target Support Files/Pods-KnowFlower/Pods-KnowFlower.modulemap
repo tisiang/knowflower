@@ -1,0 +1,6 @@
+module Pods_KnowFlower {
+  umbrella header "Pods-KnowFlower-umbrella.h"
+
+  export *
+  module * { export * }
+}
